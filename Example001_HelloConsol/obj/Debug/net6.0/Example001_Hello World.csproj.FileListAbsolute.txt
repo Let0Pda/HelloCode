@@ -1,0 +1,30 @@
+C:\Users\Alex\Desktop\GitTest\Exemples\Example001_Hello World\bin\Debug\net6.0\Example001_Hello World.exe
+C:\Users\Alex\Desktop\GitTest\Exemples\Example001_Hello World\bin\Debug\net6.0\Example001_Hello World.deps.json
+C:\Users\Alex\Desktop\GitTest\Exemples\Example001_Hello World\bin\Debug\net6.0\Example001_Hello World.runtimeconfig.json
+C:\Users\Alex\Desktop\GitTest\Exemples\Example001_Hello World\bin\Debug\net6.0\Example001_Hello World.dll
+C:\Users\Alex\Desktop\GitTest\Exemples\Example001_Hello World\bin\Debug\net6.0\Example001_Hello World.pdb
+C:\Users\Alex\Desktop\GitTest\Exemples\Example001_Hello World\obj\Debug\net6.0\Example001_Hello World.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\GitTest\Exemples\Example001_Hello World\obj\Debug\net6.0\Example001_Hello World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\GitTest\Exemples\Example001_Hello World\obj\Debug\net6.0\Example001_Hello World.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\GitTest\Exemples\Example001_Hello World\obj\Debug\net6.0\Example001_Hello World.AssemblyInfo.cs
+C:\Users\Alex\Desktop\GitTest\Exemples\Example001_Hello World\obj\Debug\net6.0\Example001_Hello World.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\GitTest\Exemples\Example001_Hello World\obj\Debug\net6.0\Example001_Hello World.dll
+C:\Users\Alex\Desktop\GitTest\Exemples\Example001_Hello World\obj\Debug\net6.0\refint\Example001_Hello World.dll
+C:\Users\Alex\Desktop\GitTest\Exemples\Example001_Hello World\obj\Debug\net6.0\Example001_Hello World.pdb
+C:\Users\Alex\Desktop\GitTest\Exemples\Example001_Hello World\obj\Debug\net6.0\Example001_Hello World.genruntimeconfig.cache
+C:\Users\Alex\Desktop\GitTest\Exemples\Example001_Hello World\obj\Debug\net6.0\ref\Example001_Hello World.dll
+C:\Users\Alex\Desktop\GitTest\Exemples\Example001_HelloConsol\bin\Debug\net6.0\Example001_Hello World.exe
+C:\Users\Alex\Desktop\GitTest\Exemples\Example001_HelloConsol\bin\Debug\net6.0\Example001_Hello World.deps.json
+C:\Users\Alex\Desktop\GitTest\Exemples\Example001_HelloConsol\bin\Debug\net6.0\Example001_Hello World.runtimeconfig.json
+C:\Users\Alex\Desktop\GitTest\Exemples\Example001_HelloConsol\bin\Debug\net6.0\Example001_Hello World.dll
+C:\Users\Alex\Desktop\GitTest\Exemples\Example001_HelloConsol\bin\Debug\net6.0\Example001_Hello World.pdb
+C:\Users\Alex\Desktop\GitTest\Exemples\Example001_HelloConsol\obj\Debug\net6.0\Example001_Hello World.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\GitTest\Exemples\Example001_HelloConsol\obj\Debug\net6.0\Example001_Hello World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\GitTest\Exemples\Example001_HelloConsol\obj\Debug\net6.0\Example001_Hello World.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\GitTest\Exemples\Example001_HelloConsol\obj\Debug\net6.0\Example001_Hello World.AssemblyInfo.cs
+C:\Users\Alex\Desktop\GitTest\Exemples\Example001_HelloConsol\obj\Debug\net6.0\Example001_Hello World.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\GitTest\Exemples\Example001_HelloConsol\obj\Debug\net6.0\Example001_Hello World.dll
+C:\Users\Alex\Desktop\GitTest\Exemples\Example001_HelloConsol\obj\Debug\net6.0\refint\Example001_Hello World.dll
+C:\Users\Alex\Desktop\GitTest\Exemples\Example001_HelloConsol\obj\Debug\net6.0\Example001_Hello World.pdb
+C:\Users\Alex\Desktop\GitTest\Exemples\Example001_HelloConsol\obj\Debug\net6.0\Example001_Hello World.genruntimeconfig.cache
+C:\Users\Alex\Desktop\GitTest\Exemples\Example001_HelloConsol\obj\Debug\net6.0\ref\Example001_Hello World.dll
