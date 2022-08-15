@@ -38,7 +38,7 @@ int Method3()
 int year = Method3();
 //Console.WriteLine(year);
 
-// 4.  Что-то принимают, что-то возвращают
+/* 4.  Что-то принимают, что-то возвращают
 string Method4(int count, string text)
 {
     int i = 0;
@@ -53,4 +53,32 @@ string Method4(int count, string text)
 }
 string res = Method4(10, "Bb ");
 Console.WriteLine(res);
+*/
 
+// 5. Цикл (for), цыкл СО СЧЕТЧИКОМ  просто в себе собирает все в "Кучу", все в одном месте
+
+string Method5(int count, string text)
+{
+
+    string result = String.Empty;
+    for (int i = 0; i < count; i++)
+
+    {
+        result = result + text;
+    }
+    return result;
+}
+string res = Method5(10, "Bb ");
+//Console.WriteLine(res);
+
+// 6. Использование цикла в цикле, пример: вывод таблицы умножения
+
+
+for (int i = 2; i <= 10; i++)
+{
+    for (int j = 2; j <= 10; j++)
+    {
+        Console.WriteLine($"{i}x{j} ={i * j}");
+    }
+    Console.WriteLine();
+}
